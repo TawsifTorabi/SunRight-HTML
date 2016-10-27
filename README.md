@@ -11,6 +11,10 @@ Features,
   - SEO Friendly
   - Clean Design
   - X Browser Support
+  - Font Awesome Enabled
+  - Bootstrap Enabled
+  - Responsive menu bar
+  - Social and Git Buttons
 
 Let's See Some Screenshots,
 
